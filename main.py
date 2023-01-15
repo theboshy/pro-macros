@@ -1,5 +1,5 @@
-import gui
-import macro_reader
+from src import gui
+from src import macro_reader
 
 
 def main():
